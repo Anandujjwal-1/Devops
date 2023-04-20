@@ -31,3 +31,15 @@ div= b/a
 print(sub)
 print(sum)
 print (mul)
+
+#line 3
+a=7727826826
+b=88989
+sum = a+b
+sub= b-a
+mul =a*b
+div= b/a
+print(sub)
+print(sum)
+print (mul)
+
