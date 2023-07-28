@@ -43,3 +43,14 @@ print(sub)
 print(sum)
 print (mul)
 
+# made changes otday 
+
+a=77278268645446
+b=88
+sum = a+b
+sub= b-a
+mul =a*b
+div= b/a
+print(sub)
+print(sum)
+print (mul)
